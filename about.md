@@ -1,5 +1,4 @@
 ---
-layout: page
 title: The RISM (UK) Trust
 ---
 # About the RISM (UK) Trust  
