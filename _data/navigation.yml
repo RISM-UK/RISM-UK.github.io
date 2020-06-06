@@ -1,9 +1,9 @@
-# Site navigation links
-- title: Home
+main:
+- title: "Home"
   url: /
 
-- title: About the RISM (UK) Trust
+- title: "About the RISM (UK) Trust"
   url: /about/
 
-- title: Contact us
+- title: "Contact us"
   url: /contact/
