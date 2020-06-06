@@ -3,6 +3,6 @@ title: About us
 ---
 # About us  
 
-In Britain, work to identify sources and include them in the central RISM database is co-ordinated by the RISM (UK) Trust.  
+Since 1984, work to identify printed and manuscript musical sources in UK libraries and include them in the central RISM database has been co-ordinated by the RISM (UK) Trust.  
 
-Since 2001, the Trust has worked in partnership with the British Library and Royal Holloway University of London on a series of projects to document musical sources held in libraries across England, Scotland and Wales.  
+In 2001, the Trust embarked on a partnership with the British Library and Royal Holloway University of London, which in 2007 delivered the UK RISM Music Manuscripts catalogue.  The data about all of these manuscripts was subsequently included in the international RISM database at www.rism.info.  
