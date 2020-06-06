@@ -2,7 +2,7 @@
 
 ## Manuscript sources  
 
-An initial project to document music manuscripts in UK libraries took place in the 1960s. The information was captured in a card catalogue, and this catalogue (converted to electronic form) underpins the current online catalogue.  Mr Richard Andrews, formerly Music Librarian at Cambridge University Library, was a key figure in this first cataloguing project.
+An initial project to document music manuscripts in UK libraries took place in the 1960s. The information was captured in a card catalogue, and this catalogue (converted to electronic form) underpins the current online catalogue.  Mr Richard Andrewes, formerly Head of Music at Cambridge University Library, was a key figure in this first cataloguing project.
 The catalogue data was enhanced with music incipits, and new catalogue records for anonymous works were created, during the UK RISM Music Manuscripts Project, a collaboration between Royal Holloway, University of London and the British Library.  
 
 ## Printed sources  
@@ -15,18 +15,18 @@ In 2011, Royal Holloway and the British Library undertook Early Music Online, a 
 
 ### UK RISM Music Manuscripts Project  
 
-The Arts and Humanities Research Council generously provided funding for the enhanced cataloguing of manuscript sources between 2001 and 2007 via its Resource Enhancement Scheme. Funding to catalogue the Julian Marshall Collection at the British Library was kindly provided by the Gladys Krieble Delmas Foundation.   
+The [Arts and Humanities Research Council](https://ahrc.ukri.org/) generously provided funding for the enhanced cataloguing of manuscript sources between 2001 and 2007 via its Resource Enhancement Scheme. Funding to catalogue the Julian Marshall Collection at the British Library was kindly provided by the [Gladys Krieble Delmas Foundation](http://delmas.org/).   
 
 ### Early Music Online  
 
-Funding for the Early Music Online project was provided by Jisc via its Rapid Digitisation Scheme.  
+Funding for the Early Music Online project was provided by [Jisc](https://www.jisc.ac.uk/) via its Rapid Digitisation Scheme.  
 
 ## Staffing  
 
 ### UK RISM Music Manuscripts Project  
 
 Project Director: Professor David Charlton  
-Project Manager and Data Editor: Dr Sandra Tuppen  
+Project Manager and Editor: Dr Sandra Tuppen  
 
 RISM Cataloguers: Dr Peter Bennett, Christine Bethune, Dr Andrea Bornstein, Clare Brown, Caroline Cradock, Charlene Crampin, Dr Laura Davey, Dr Barbara Diana, Dr Loukia Drosopoulou, Nigel Evans, Dr Mark Fitzgerald, Helen Hale-Martin, Adrian Head, Katharine Hogg, Margaret Jones, Francis Knights, Matthew Mills, Dr Bernadette Nelson, Dr Robert Rawson, Dr Jane Roper, Paula Russell, Caroline Shaw, Brooke Shelley, Mark Summers, Dr Myfanwy Walters.  
 
@@ -34,7 +34,7 @@ RISM Cataloguers: Dr Peter Bennett, Christine Bethune, Dr Andrea Bornstein, Clar
 ### Early Music Online  
 
 Project Director: Dr Stephen Rose  
-Project Manager and Data Editor: Dr Sandra Tuppen  
+Project Manager and Editor: Dr Sandra Tuppen  
 
 Early Music Online research assistants: Dr Katherine Butler, Dr James Clements, Ian Davis, Dr Loukia Drosopoulou, Ruth Hellen, Matthew Laube, Dr Esperanza Rodríguez-García, Dr Rupert Ridgewell, Andra Patterson, Chris Scobie, Mark Summers, Dr Vassilis Vavoulis and Susi Woodhouse.   
 
@@ -44,4 +44,3 @@ Early Music Online research assistants: Dr Katherine Butler, Dr James Clements, 
 The RISM UK online discovery system and catalogue system were developed by Dr Laurent Pugin of the Swiss RISM Office. The catalogue is based on an earlier system created by Chad Thatcher for RISM UK.  
 
 The RISM UK online search portal is kindly hosted by the Swiss RISM office.  
-
