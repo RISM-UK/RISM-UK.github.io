@@ -14,6 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
+      <ul>
+          <li><a href="{{ "/" }}">Home</a></li>
+          <li><a href="{{ "/about" }}">About</a></li>
+          <li><a href="{{ "/contact" }}">Contact</a></li>
+         
+        </ul>
+ 
         {% if site.logo %}
         <a href="/"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
@@ -23,13 +30,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         
-        <ul>
-          <li><a href="{{ "/" }}">Home</a></li>
-          <li><a href="{{ "/about" }}">About</a></li>
-          <li><a href="{{ "/contact" }}">Contact</a></li>
-          
-        </ul>
-
+        
       </header>
       <section>
         <ul>
