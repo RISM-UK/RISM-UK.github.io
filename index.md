@@ -1,1 +1,1 @@
-Welcome to the website of the RISM in the UK.
+Welcome to the website of RISM in the UK.
