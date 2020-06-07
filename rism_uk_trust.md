@@ -14,7 +14,7 @@ Dr Michael Burden
 Professor David Charlton  
 Mr Martin Holmes  
 Dr Rupert Ridgewell  
-Dr Stephen Rose  
+Professor Stephen Rose  
 Dr Sandra Tuppen  
 Professor Andrew Wathey  
 Professor David Wyn Jones  
