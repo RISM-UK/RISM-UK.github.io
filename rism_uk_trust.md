@@ -19,7 +19,7 @@ Dr Sandra Tuppen
 Professor Andrew Wathey  
 Professor David Wyn Jones  
 
-The Trust may be contacted via its secretary, Mrs Caroline Shaw, at caroline.shaw@bl.uk  
+The Trust may be contacted via its secretary, Mrs Caroline Shaw: [caroline.shaw@bl.uk](mailto:caroline.shaw@bl.uk)  
 
 Governing instrument: Declaration of Trust dated 17 October 1984  
 
