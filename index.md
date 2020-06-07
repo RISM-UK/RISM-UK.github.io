@@ -1,8 +1,6 @@
 # Welcome to the RISM UK website  
 
-Répertoire International des Sources Musicales (RISM) is an international non-profit venture which aims to document surviving musical sources worldwide.  Its focus is on material dating from before 1850.  
-
-The sources documented for RISM include music manuscripts and printed music, writings on music and libretti. These materials are preserved in libraries, archives, religious foundations, schools and private collections across the world.  
+RISM (Répertoire International des Sources Musicales) is an international collaborative venture which aims to document all pre-1850 musical sources surviving in libraries and archives worldwide. These sources include printed and manuscript music, writings on music and libretti. 
 
 Also known as the International Inventory of Musical Sources, RISM is the product of years of research and cataloguing in more than 30 countries - work that is still ongoing.  
 
