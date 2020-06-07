@@ -1,6 +1,6 @@
 # About RISM in the UK  
 
-Since 1984, work to identify printed and manuscript musical sources in UK libraries and archives has been co-ordinated by the [RISM (UK) Trust](/rism_uk_trust).  
+In 1984, the [RISM (UK) Trust](/rism_uk_trust) was founded to oversee identification of printed and manuscript musical sources in UK libraries and archives.
 
 The first large-scale survey of printed music in UK libraries was *The British Union-Catalogue of Early Music Printed Before the Year 1801. A Record of the Holdings of over One Hundred Libraries Throughout the British Isles*, edited by Edith B. Schnapper (1957). Much of the data from this catalogue was later included in the printed RISM catalogues, and is now available in the central RISM [Online Catalogue of Musical Sources](http://www.rism.info/home.html).
 
@@ -10,3 +10,4 @@ In 2001, the RISM (UK) Trust embarked on the RISM UK Music Manuscripts (1600-180
 
 In 2011, Royal Holloway and the British Library undertook Early Music Online, a project to digitise and create detailed catalogue records for 326 anthologies printed in the 16th-century. The catalogue records, between them listing over 12,000 works, are not currently available via the RISM platform, but can be retrieved from the [British Library catalogue](http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=local_tab&indx=1&dum=true&srt=rank&vid=BLVU1&frbg=&tb=t&vl%28freeText0%29=dar_287&scp.scps=scope%3A%28BLCONTENT%29&vl%282084770704UI0%29=any&vl%282084770704UI0%29=title&vl%282084770704UI0%29=any), or browsed via the [Royal Holloway Digital Repository](https://repository.royalholloway.ac.uk/hierarchy.do?topic=52facdbd-19ce-2b92-dbd5-434289d29e8b&page=1). The digitised scores are also available in both locations.  
 
+In 2013, with the assistance of the RISM groups in Switzerland and the UK, the RISM Ireland group launched a dedicated Irish-focused free-to-access [database of musical materials held in repositories throughout the island of Ireland](http://www.rism-ie.org/pages/home).  
