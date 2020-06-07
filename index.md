@@ -2,7 +2,7 @@
 
 RISM (Répertoire International des Sources Musicales) is an international collaborative programme which aims to document all pre-1850 musical sources surviving in libraries and archives worldwide. These sources include printed and manuscript music, writings on music and libretti. 
 
-![Manuscript of a flute solo](/BL_Add_MS_22098_small.jpg)  
+![Tune from Thomas Britton's music book, 1697 (British Library Add MS 22098)](/BL_Add_MS_22098_small.jpg "Tune from Thomas Britton's music book, 1697 (British Library Add MS 22098)")  
 
 Through its online and printed publications, RISM brings together the results of research and cataloguing in more than 30 countries including the UK - work that is still ongoing.  In the UK, work is co-ordinated by the RISM (UK) Trust.  
 
