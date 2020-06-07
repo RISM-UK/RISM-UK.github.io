@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: RISM UK
 description: Documenting printed and manuscript musical sources in Britain
 logo: rism_logo_new.png
+google_analytics: UA-168776756-1
+
