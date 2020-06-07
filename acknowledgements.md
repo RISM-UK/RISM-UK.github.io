@@ -30,6 +30,9 @@ Project Manager and Editor: Dr Sandra Tuppen
 
 RISM Cataloguers: Dr Peter Bennett, Christine Bethune, Dr Andrea Bornstein, Clare Brown, Caroline Cradock, Charlene Crampin, Dr Laura Davey, Dr Barbara Diana, Dr Loukia Drosopoulou, Nigel Evans, Dr Mark Fitzgerald, Helen Hale-Martin, Adrian Head, Katharine Hogg, Margaret Jones, Francis Knights, Matthew Mills, Dr Bernadette Nelson, Dr Robert Rawson, Dr Jane Roper, Paula Russell, Caroline Shaw, Brooke Shelley, Mark Summers, Dr Myfanwy Walters.  
 
+Technical advisor: Professor Marilyn Deegan
+Technical developers: Matthew Dovey, Chad Thatcher
+
 
 ### Early Music Online  
 
@@ -37,10 +40,3 @@ Project Director: Professor Stephen Rose
 Project Manager and Editor: Dr Sandra Tuppen  
 
 Early Music Online research assistants: Dr Katherine Butler, Dr James Clements, Ian Davis, Dr Loukia Drosopoulou, Ruth Hellen, Dr Matthew Laube, Dr Esperanza Rodríguez-García, Dr Rupert Ridgewell, Andra Patterson, Chris Scobie, Mark Summers, Dr Vassilis Vavoulis and Susi Woodhouse.   
-
-
-## Technical Information  
-
-The RISM UK online discovery system and catalogue system were developed by Dr Laurent Pugin of the Swiss RISM Office. The catalogue is based on an earlier system created by Chad Thatcher for RISM UK.  
-
-The RISM UK online search portal is kindly hosted by the Swiss RISM office.  
