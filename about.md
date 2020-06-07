@@ -1,10 +1,10 @@
 # About RISM in the UK  
 
-In 1984, the [RISM (UK) Trust](/rism_uk_trust) was founded to oversee identification of printed and manuscript musical sources in UK libraries and archives.
-
 The first large-scale survey of printed music in UK libraries was *The British Union-Catalogue of Early Music Printed Before the Year 1801. A Record of the Holdings of over One Hundred Libraries Throughout the British Isles*, edited by Edith B. Schnapper (1957). Much of the data from this catalogue was later included in the printed RISM catalogues, and is now available in the central RISM [Online Catalogue of Musical Sources](http://www.rism.info/home.html).
 
 An initial project to document music manuscripts dating from 1600 to 1800 held in UK libraries took place in the 1960s. Information was recorded in a card catalogue and supplemented with further data, on paper slips, in the 1980s.
+
+In 1984, the [RISM (UK) Trust](/rism_uk_trust) was founded to oversee identification of printed and manuscript musical sources in UK libraries and archives.  
 
 In 2001, the RISM (UK) Trust embarked on the RISM UK Music Manuscripts (1600-1800) Project, in partnership with the British Library and Royal Holloway, University of London. This project, funded via the AHRC's Resource Enhancement Scheme, involved the keying of the data from the existing catalogue cards and slips, the enhancement of these records with musical incipits, and the cataloguing of anonymous works, which had not been included in the earlier projects. All of the data from this project is now searchable in the central Online Catalogue of Musical Sources.  Documentation of all pre-1850 music anuscripts in the UK is by no means complete, and funding is being sought to continue this work.
 
