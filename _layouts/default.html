@@ -21,7 +21,8 @@
         {% endif %}
 
         <h2>{{ site.title | default: site.github.repository_name }}</h2>
-        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         <p>
 <a href="https://www.bl.uk/">
 <img border="0" alt="British Library logo" src="bl_logo_100.gif">
@@ -30,11 +31,10 @@
         
         <p>
 <a href="https://www.royalholloway.ac.uk/">
-<img border="0" alt="Royal Holloway, University of London logo" src="Royal Holloway logo-cmyk.jpg">
+<img border="0" alt="Royal Holloway, University of London logo" src="Royal Holloway logo-cmyk.jpg" width="162" height="80">
 </a>
 </p>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
        <p><a href="{{ "/" }}">Home</a></p>
           <p><a href="{{ "/about" }}">About RISM in the UK</a></p>
           <p><a href="{{ "/rism_uk_trust" }}">RISM (UK) Trust</a></p>
