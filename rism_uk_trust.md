@@ -1,3 +1,5 @@
+[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)  
+  
 # The RISM (UK) Trust  
 
 The UK contribution to the international RISM venture has been co-ordinated, since 1984, by the RISM (UK) Trust, Charity Registration No. 290472  
