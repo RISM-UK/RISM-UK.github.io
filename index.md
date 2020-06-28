@@ -8,7 +8,7 @@ RISM (Répertoire International des Sources Musicales) is an international colla
 
 Through its online and printed publications, RISM brings together the results of research and cataloguing in more than 30 countries including the UK - work that is still ongoing.  In the UK, work is co-ordinated by the RISM (UK) Trust.  
 
-**[Search the central Online Catalogue of Musical Sources on the international RISM website](http://www.rism.info/home.html)**  
+**<a href="http://www.rism.info/home.html" target="_blank">Search the central Online Catalogue of Musical Sources on the international RISM website</a>**  
 
 Note on coverage of material in UK libraries:  
 
