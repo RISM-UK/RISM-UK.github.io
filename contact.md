@@ -1,3 +1,5 @@
+[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)  
+  
 # Contact us  
 
 For all enquiries about the work of RISM in the UK, please contact Ms Caroline Shaw, Secretary of the RISM (UK) Trust: [caroline.shaw@bl.uk](mailto:caroline.shaw@bl.uk)
