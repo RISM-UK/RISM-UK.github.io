@@ -1,3 +1,5 @@
+[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)  
+  
 # About RISM in the UK  
 
 The first large-scale survey of printed music in UK libraries was *The British Union-Catalogue of Early Music Printed Before the Year 1801. A Record of the Holdings of over One Hundred Libraries Throughout the British Isles*, edited by Edith B. Schnapper (1957). Much of the data from this catalogue was later included in the printed RISM catalogues, and is now available in the central RISM [Online Catalogue of Musical Sources](http://www.rism.info/home.html).  
