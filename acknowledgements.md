@@ -1,4 +1,4 @@
-# Acknowledgements  
+# Credits  
 
 ## Funding  
 
