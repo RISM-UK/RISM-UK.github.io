@@ -1,5 +1,5 @@
-[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)
-
+[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)  
+  
 # Welcome to the RISM UK website  
 
 RISM (Répertoire International des Sources Musicales) is an international collaborative programme which aims to document all pre-1850 musical sources surviving in libraries and archives worldwide. These sources include printed and manuscript music, writings on music and libretti. 
