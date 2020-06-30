@@ -12,6 +12,11 @@ The <a href="https://ahrc.ukri.org/" target="_blank">Arts and Humanities Researc
 
 Funding for the Early Music Online project was provided by <a href="https://www.jisc.ac.uk/" target="_blank">Jisc</a> via its Rapid Digitisation Scheme.  
 
+### RISM UK new discovery layer and scoping study (2020)  
+
+Funded by Royal Holloway, University of London (Strategic Knowledge Exchange Initiative)
+
+
 ## Staffing  
 
 ### UK RISM Music Manuscripts Project  
