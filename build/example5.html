@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" type="text/css" href="mirador/css/mirador-combined.css">
+    <title>Mirador Viewer</title>
+    <style type="text/css">
+     #viewer {
+       width: 100%;
+       height: 100%;
+       position: fixed;
+     }
+    </style>
+  </head>
+  <body>
+    <div id="viewer"></div>
+
+    <script src="mirador/mirador.min.js"></script>
+    <script type="text/javascript">
+
+     $(function() {
+       myMiradorInstance = Mirador({
+         id: "viewer",
+         layout: "1x2",
+         buildPath: "mirador/",
+         data: [
+           { manifestUri: "https://iiif.bodleian.ox.ac.uk/iiif/manifest/1867eff8-7689-431d-9a4d-d1e845e92fbb.json", location: "Bodleian Library"},
+           { manifestUri: "https://iiif.bodleian.ox.ac.uk/iiif/manifest/0422bba1-21a7-4725-9862-ae4faa87e96b.json", location: "Bodleian Library"}
+           ],
+         windowObjects: [
+         {
+loadedManifest: "https://iiif.bodleian.ox.ac.uk/iiif/manifest/1867eff8-7689-431d-9a4d-d1e845e92fbb.json",
+slotAddress: "row1.column1",
+canvasID: "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d770d8e7-4c94-4c52-a538-2de830b99f6f.json",
+viewType: "ImageView",
+sidePanel: false
+},
+{
+loadedManifest: "https://iiif.bodleian.ox.ac.uk/iiif/manifest/0422bba1-21a7-4725-9862-ae4faa87e96b.json",
+slotAddress: "row1.column2",
+canvasID: "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ef45daea-cab0-4125-82b2-00dfda5a2791.json",
+viewType: "ImageView",
+sidePanel: false
+}],
+         annotationEndpoint: {
+           name:"Local Storage",
+           module: "LocalStorageEndpoint" }
+       });
+     });
+    </script>
+  </body>
+</html>
