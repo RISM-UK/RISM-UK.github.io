@@ -6,11 +6,11 @@
 
 ### UK RISM Music Manuscripts Project (2001-2007)  
 
-The <a href="https://ahrc.ukri.org/" target="_blank">Arts and Humanities Research Council</a> generously provided funding for the documentation of manuscript sources through its Resource Enhancement Scheme. Funding to catalogue the Julian Marshall Collection at the British Library was kindly provided by the <a href="http://delmas.org/" target="_blank">Gladys Krieble Delmas Foundation</a>.   
+The [Arts and Humanities Research Council](https://ahrc.ukri.org/) generously provided funding for the documentation of manuscript sources through its Resource Enhancement Scheme. Funding to catalogue the Julian Marshall Collection at the British Library was kindly provided by the [Gladys Krieble Delmas Foundation](http://delmas.org/).   
 
 ### Early Music Online (2011)  
 
-Funding for the Early Music Online project was provided by <a href="https://www.jisc.ac.uk/" target="_blank">Jisc</a> via its Rapid Digitisation Scheme.  
+Funding for the Early Music Online project was provided by [Jisc](https://www.jisc.ac.uk) via its Rapid Digitisation Scheme.  
 
 ### RISM UK new discovery layer and scoping study (2020)  
 
