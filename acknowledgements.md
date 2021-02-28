@@ -14,8 +14,7 @@ Funding for the Early Music Online project was provided by [Jisc](https://www.ji
 
 ### RISM UK new discovery layer and scoping study (2020)  
 
-Funded by Royal Holloway, University of London (Strategic Knowledge Exchange Initiative), this work was led by Professor Stephen Rose.  
-Postgraduate Research Assistants: Ms. Micah Anne Neale and Mr James Ritzema  
+Funded by Royal Holloway, University of London (Strategic Knowledge Exchange Initiative).  
   
   
 ## Staffing  
@@ -37,3 +36,8 @@ Project Director: Professor Stephen Rose
 Project Manager and Editor: Dr Sandra Tuppen  
 
 Early Music Online research assistants: Dr Katherine Butler, Dr James Clements, Ian Davis, Dr Loukia Drosopoulou, Ruth Hellen, Dr Matthew Laube, Dr Esperanza Rodríguez-García, Dr Rupert Ridgewell, Andra Patterson, Chris Scobie, Mark Summers, Dr Vassilis Vavoulis and Susi Woodhouse.   
+
+
+### RISM UK new discovery layer and scoping study
+Project lead: Professor Stephen Rose  
+Postgraduate Research Assistants: Ms. Micah Anne Neale and Mr James Ritzema  
