@@ -8,7 +8,7 @@ RISM (Répertoire International des Sources Musicales) is an international colla
 
 Through its online and printed publications, RISM brings together the results of research and cataloguing in more than 30 countries including the UK - work that is still ongoing.  In the UK, work is co-ordinated by the RISM (UK) Trust.  
 
-**Note on coverage of material in UK libraries:  
+**Note on coverage of material in UK libraries**  
 
 The central Online Catalogue of Musical Sources includes all catalogue records for pre-1800 manuscript music in UK libraries that have been created up till now. Cataloguing of UK collections is not yet complete, however. The central Online Catalogue also contains data on most single-composer pre-1800 printed editions identified in UK libraries. It does not include detailed descriptions of music in printed anthologies. See [About RISM in the UK](/about) for information on anthologies catalogued for the Early Music Online project.
 A new RISM UK Catalogue has recently been launched: this is a subset of the international RISM database, containing data on printed and manuscript music held in British* libraries and archives.
