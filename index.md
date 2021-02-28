@@ -8,14 +8,12 @@ RISM (Répertoire International des Sources Musicales) is an international colla
 
 Through its online and printed publications, RISM brings together the results of research and cataloguing in more than 30 countries including the UK - work that is still ongoing.  In the UK, work is co-ordinated by the RISM (UK) Trust.  
 
-**<a href="http://www.rism.info/home.html" target="_blank">Search the central Online Catalogue of Musical Sources on the international RISM website</a>**  
-
-Note on coverage of material in UK libraries:  
+**Note on coverage of material in UK libraries:  
 
 The central Online Catalogue of Musical Sources includes all catalogue records for pre-1800 manuscript music in UK libraries that have been created up till now. Cataloguing of UK collections is not yet complete, however. The central Online Catalogue also contains data on most single-composer pre-1800 printed editions identified in UK libraries. It does not include detailed descriptions of music in printed anthologies. See [About RISM in the UK](/about) for information on anthologies catalogued for the Early Music Online project.
-The new RISM UK Catalogue is a subset of the international RISM database, containing data on printed and manuscript music held in British* libraries and archives.
+A new RISM UK Catalogue has recently been launched: this is a subset of the international RISM database, containing data on printed and manuscript music held in British* libraries and archives.
 
-Search the central [Online Catalogue of Musical Sources](https://rism.info/) on the international RISM website
-Search the [RISM UK Catalogue](http://uk.rism-ch.org/catalog)
+Search the central [Online Catalogue of Musical Sources](https://rism.info/) on the international RISM website  
+Search the [RISM UK Catalogue](http://uk.rism-ch.org/catalog)  
 
-*Content from Northern Ireland is now within the scope of [RISM Ireland](http://www.rism-ie.org/), and should be searched for in the international database, or via RISM Ireland's own platform.
+*Content from Northern Ireland is now within the scope of [RISM Ireland](http://www.rism-ie.org/), and should be searched for in the international database, or via RISM Ireland's own platform.  
