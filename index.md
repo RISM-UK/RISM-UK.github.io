@@ -1,4 +1,4 @@
-[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Contact](/contact)  
+[Home](/) | [About](/about) | [RISM (UK) Trust](/rism_uk_trust) | [Credits](/acknowledgements) | [Resources](related_resources) | [Contact](/contact)  
   
 # Welcome to the RISM UK website  
 
