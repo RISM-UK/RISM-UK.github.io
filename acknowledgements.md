@@ -14,7 +14,8 @@ Funding for the Early Music Online project was provided by [Jisc](https://www.ji
 
 ### RISM UK new discovery layer and scoping study (2020)  
 
-Funded by Royal Holloway, University of London (Strategic Knowledge Exchange Initiative)
+Funded by Royal Holloway, University of London (Strategic Knowledge Exchange Initiative), this work was led by Professor Stephen Rose.  
+Postgraduate Research Assistants: Ms. Micah Anne Neale and Mr James Ritzema  
   
   
 ## Staffing  
